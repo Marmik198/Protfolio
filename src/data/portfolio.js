@@ -218,7 +218,7 @@ export const experience = {
       bullets: [
         'Engineered a Kafka-driven ingestion platform processing 1M+ records daily, leveraging polling and webhook patterns for asynchronous status tracking and reconciliation to catch missed status updates.',
         'Designed an enterprise-wide loyalty program letting one corporate span multiple lines of business, with generic APIs.',
-        'Developed a milestone-based journey rewards feature on GraphQL; prototyped a profile-driven multi-database setup and a strategy-driven post-award layer for cashback and other gihting modules.',
+        'Developed a milestone-based journey rewards feature on GraphQL; prototyped a profile-driven multi-database setup and a strategy-driven post-award layer for cashback and other gifting modules.',
         'Devised a parallel-processing lock for distributed ad hoc transactions and added budget controls to cap reward spend, with threshold-based actions and real-time updates.',
         'Achieved zero downtime on production services with keep-alive, virtual IPs and master-slave HA; cut Redis memory by over 50\% with a purging policy, a cluster setup and tuned RDB snapshots.',
         'Deployed microservices architecture on a Kubernetes cluster; introduced observability using ELK, Prometheus, and Grafana.',
