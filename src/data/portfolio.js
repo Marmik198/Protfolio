@@ -235,7 +235,7 @@ export const internships = [
     logo: '/logos/tq.jpeg', // optional
     role: 'Software Development Intern',
     location: 'Remote',
-    period: 'Feb 2022 – March 2022',
+    period: 'Feb 2023 – March 2023',
     color: 'amber',
     bullets: [
       'Built a full-stack Django quiz application with JWT-based registration and login, plus a superadmin module for user management.',
